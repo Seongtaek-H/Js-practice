@@ -1,0 +1,10 @@
+.alert-box {
+  background: #aba8f4;
+  color: #4646b4;
+  padding: 20px;
+  display: none;
+  margin-bottom: 10px;
+}
+.alert-box p {
+  display: inline;
+}
